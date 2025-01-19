@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "physio.timer",
+        "sha256_cert_fingerprints": [
+          "F0:7B:5F:4F:00:2D:7C:2B:1E:6F:80:79:DB:10:9A:5D:69:FB:D4:30:0A:54:7A:29:07:21:B3:71:28:AA:A2:B7"
+        ]
+      }
+    }
+  ]
+  
